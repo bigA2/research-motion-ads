@@ -1,0 +1,16 @@
+{
+ "topic": "SaaS product ad motion design",
+ "question": "How do professional motion designers build 13-15 second SaaS product ads (rapid motion graphics, no voice-over): shot structure, kinetic typography, camera moves, easing curves, transitions, glow/light effects, and how to reproduce them in code (Remotion / React / After Effects expressions)?",
+ "queries": [
+  "remotion animation",
+  "kinetic typography",
+  "motion graphics after effects scripts",
+  "product video template react"
+ ],
+ "urls": [
+  "https://www.remotion.dev/docs/animating-properties",
+  "https://www.remotion.dev/docs/transitions",
+  "https://www.remotion.dev/docs/spring",
+  "https://easings.net/"
+ ]
+}
