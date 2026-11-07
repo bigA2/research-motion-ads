@@ -1,0 +1,13 @@
+{
+ "topic": "n8n dashboard reverse-engineering",
+ "question": "From n8n's public source (github.com/n8n-io/n8n, packages/editor-ui and packages/cli) and docs: exact dashboard structure: overview/home, workflows list, executions history, credentials, variables, templates, usage/plan limits, settings (users, API keys, SSO, log streaming), billing. Routes, data models, plan limits, API key format/hashing/scopes.",
+ "queries": [
+  "n8n editor-ui settings api",
+  "n8n public api key",
+  "n8n executions list"
+ ],
+ "urls": [
+  "https://docs.n8n.io/api/authentication/",
+  "https://docs.n8n.io/hosting/configuration/environment-variables/security/"
+ ]
+}
